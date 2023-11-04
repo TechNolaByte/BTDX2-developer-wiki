@@ -3,7 +3,7 @@
 profile [???]
 
 [profile/towerConfigs.json](https://technolabyte.github.io/BTDX2-developer-wiki/towerConfigs.md)
-[profile/towerConfigs.json](.. "towerConfigs.md")
+[profile/towerConfigs.json](../root "towerConfigs.md")
 
 profile/enemyConfigs.json [???]
 
