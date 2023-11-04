@@ -2,7 +2,7 @@
 
 profile [???]
 
-[profile/towerConfigs.json](https://github.com/TechNolaByte/BTDX2-developer-wiki/towerConfigs.md)
+[profile/towerConfigs.json](https://github.com/TechNolaByte/BTDX2-developer-wiki/blob/main/towerConfigs.md)
 
 profile/enemyConfigs.json [???]
 
